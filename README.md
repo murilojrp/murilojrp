@@ -7,6 +7,7 @@ Brazilian software developer.
 📫 How to reach me: murilain@gmail.com
 
 Connect with me:
+
 instagram.com/muriloj.posso;
 
 linkedin.com/in/murilo-josé-roso-posso
