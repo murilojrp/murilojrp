@@ -8,9 +8,10 @@ Brazilian software developer.
 
 Connect with me:
 
-instagram.com/muriloj.posso;
+Instagram --> instagram.com/muriloj.posso
 
-linkedin.com/in/murilo-josé-roso-posso
+Linkedin --> linkedin.com/in/murilo-josé-roso-posso
 
 Languages and Tools:
+
 // bootstrap // git // html // javascript // linux // nodejs // nuxtjs // postgresql // pgadmin // vuejs // vuetify // c++ //
